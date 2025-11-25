@@ -11,6 +11,8 @@ It uses a combination of:
 - **Orientation classification (Looking Left / Right / Up / Down)**  
 - **Video output with visualization overlays**
 
+---
+
 ## 🎥 Demo  
 ![Head Pose Estimation](demo/output_head_pose_last.gif)
 
