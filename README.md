@@ -48,6 +48,7 @@ Small preview window with highlighted red border.
 
 ### ✔️ **Video Output**
 Saves fully visualized video as:
+output_head_pose.mp4
 
 ---
 
