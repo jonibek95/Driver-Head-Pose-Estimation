@@ -27,7 +27,7 @@ Uses 3 FSA-Net variants:
 - **FSA-Net Var Capsule**
 - **FSA-Net NoS Capsule**
 
-Then averages their output → more stable & accurate predictions.
+Then average their output → more stable & accurate predictions.
 
 ### ✔️ **Smooth Predictions**
 A moving average filter (deque window) is used to avoid noisy angle jumps.
@@ -47,13 +47,13 @@ Displays a 3D axis directly on the detected face region.
 Small preview window with highlighted red border.
 
 ### ✔️ **Video Output**
-Saves fully visualized video as:
+Saves a fully visualized video as:
 [output_head_pose_last.mp4](https://github.com/jonibek95/Driver-Head-Pose-Estimation/blob/main/demo/output_head_pose_last.mp4)
 
 ---
 
 ## 🎥 Demo  
-* 
+![Head Pose Estimation](demo/output_head_pose_last.gif)
 Example:
 
 ---
