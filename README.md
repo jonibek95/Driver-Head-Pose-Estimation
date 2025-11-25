@@ -12,6 +12,9 @@ It uses a combination of:
 - **Video output with visualization overlays**
 
 ---
+## 🎥 Demo  
+![Head Pose Estimation](demo/output_head_pose_last.gif)
+---
 
 ## 📌 Features
 
@@ -42,20 +45,6 @@ Automatically shows driver orientation:
 
 ### ✔️ **On-Face 3D Axis Visualization**
 Displays a 3D axis directly on the detected face region.
-
-### ✔️ **Face Preview Window**
-Small preview window with highlighted red border.
-
-### ✔️ **Video Output**
-Saves a fully visualized video as:
-[output_head_pose_last.mp4](https://github.com/jonibek95/Driver-Head-Pose-Estimation/blob/main/demo/output_head_pose_last.mp4)
-
----
-
-## 🎥 Demo  
-![Head Pose Estimation](demo/output_head_pose_last.gif)
-Example:
-
 ---
 
 ## 🛠 Installation
