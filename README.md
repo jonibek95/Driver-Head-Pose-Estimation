@@ -4,12 +4,9 @@ Real-time Driver Monitoring System
 This project builds a **real-time driver head pose estimation system** designed for **Driver Monitoring Systems (DMS)** such as drowsiness detection, distraction detection, and safe-driving assistance.
 
 It uses a combination of:
-- **FSA-Net (Capsule, Var, No-S) ensemble**
-- **SSD-based face detection**
 - **Smoothed yaw, pitch, roll estimation**
 - **3D axis visualization over the driver’s face**
 - **Orientation classification (Looking Left / Right / Up / Down)**  
-- **Video output with visualization overlays**
 
 ---
 
@@ -23,12 +20,6 @@ Predicts 3 orientation angles:
 - **Yaw (left ↔ right)**
 - **Pitch (up ↔ down)**
 - **Roll (tilt)**
-
-### ✔️ **FSA-Net Ensemble**
-Uses 3 FSA-Net variants:
-- **FSA-Net Capsule**
-- **FSA-Net Var Capsule**
-- **FSA-Net NoS Capsule**
 
 Then average their output → more stable & accurate predictions.
 
