@@ -14,7 +14,6 @@ It uses a combination of:
 ---
 ## 🎥 Demo  
 ![Head Pose Estimation](demo/output_head_pose_last.gif)
----
 
 ## 📌 Features
 
