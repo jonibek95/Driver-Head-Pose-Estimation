@@ -1,5 +1,5 @@
 # 🚗 Driver Head Pose Estimation  
-Real-time Driver Monitoring System using FSA-Net (Face Semantic Attention Network)
+Real-time Driver Monitoring System
 
 This project builds a **real-time driver head pose estimation system** designed for **Driver Monitoring Systems (DMS)** such as drowsiness detection, distraction detection, and safe-driving assistance.
 
