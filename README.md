@@ -34,8 +34,6 @@ Automatically shows driver orientation:
 - **Looking Down**
 - **Head Position is OK**
 
-### ✔️ **On-Face 3D Axis Visualization**
-Displays a 3D axis directly on the detected face region.
 ---
 
 ## 🛠 Installation
